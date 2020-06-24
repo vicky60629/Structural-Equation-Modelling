@@ -20,7 +20,7 @@ LICENSE
 
 ### License
 
-[MIT License]()
+[MIT License](https://github.com/vicky60629/Structural-Equation-Modelling/blob/master/LICENSE)
 
 Copyright (c) 2020 Vicky Gupta
 
