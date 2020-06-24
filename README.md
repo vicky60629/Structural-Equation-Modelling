@@ -14,6 +14,7 @@ Structural equation modelling (SEM) is a multivariate statistical technique for 
 ```
 ├── Structural Equation Modelling.ipynb
 ├── file.csv
+LICENSE
 ├── README.md
 ```
 
